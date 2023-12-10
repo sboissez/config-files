@@ -3,3 +3,4 @@
 
 # Except for these files
 !.gitignore
+!.config/fish/config.fish
